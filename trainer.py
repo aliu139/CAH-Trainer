@@ -5,26 +5,25 @@
 Bot Trainer for CS3110 - OCaml
 By: Austin Liu
 
-sdfsdfdsf
+Used to train our bot for Cards Against Humanity
 
 """
 from tkinter import *
 import json
 import random
 
+#To intialize the actual application
 root = Tk()
 root.title("CS3110 Bot Trainer")
 
+#intialize lists
 t_list = {}
 b_list = {}
 w_list = {}
 random_b = {}
 list_of_random_items = []
 
-def reload():
-	with open('trainer_template.json') as trainer_list:
-		t_list = json.load(trainer_list)	
-
+#load data from jsons
 with open('trainer_template.json') as trainer_list:
 	t_list = json.load(trainer_list)
 
