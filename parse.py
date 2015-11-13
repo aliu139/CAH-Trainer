@@ -16,9 +16,9 @@ black = []
 with open('cards.json') as cards_file:
 	card_list = json.load(cards_file)
 	for card in card_list:
-		if card['numAnswers'] == 0:
+		if (card['numAnswers'] == 0 and card['expansion'] == 'Base'):
 			white.append(card)
-		elif card['numAnswers']==1:
+		elif (card['numAnswers']==1 and card['expansion'] == 'Base'):
 			black.append(card)
 
 with open('white.json', 'w') as white_list:
