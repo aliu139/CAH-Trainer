@@ -22,11 +22,11 @@ with open('cards.json') as cards_file:
 			black.append(card)
 
 with open('white.json', 'w') as white_list:
-	json.dump(white, white_list, ensure_ascii=True,
+	json.dump(white, white_list, ensure_ascii=False,
 	separators=(',', ': '), indent=4)
 
 with open('black.json', 'w') as black_list:
-	json.dump(black, black_list, ensure_ascii=True,
+	json.dump(black, black_list, ensure_ascii=False,
 	separators=(',', ': '), indent=4)
 
 trainer_json = {}
@@ -38,7 +38,7 @@ for bcard in black:
 	trainer_json[bcard['text']] = white_val
 
 with open('trainer_template.json', 'w') as trainer:
-	json.dump(trainer_json, trainer, ensure_ascii=True,
+	json.dump(trainer_json, trainer, ensure_ascii=False,
 	separators=(',', ': '), indent=4)	
 
 print("success")

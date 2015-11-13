@@ -1,534 +1,534 @@
 [
     {
-        "id": 459,
         "numAnswers": 1,
         "cardType": "Q",
         "text": "_?  There's an app for that.",
-        "expansion": "Base"
+        "expansion": "Base",
+        "id": 459
     },
     {
-        "id": 460,
         "numAnswers": 1,
         "cardType": "Q",
         "text": "Why can't I sleep at night?",
-        "expansion": "Base"
+        "expansion": "Base",
+        "id": 460
     },
     {
-        "id": 461,
         "numAnswers": 1,
         "cardType": "Q",
         "text": "What's that smell?",
-        "expansion": "Base"
+        "expansion": "Base",
+        "id": 461
     },
     {
-        "id": 462,
         "numAnswers": 1,
         "cardType": "Q",
         "text": "I got 99 problems but _ ain't one.",
-        "expansion": "Base"
+        "expansion": "Base",
+        "id": 462
     },
     {
-        "id": 463,
         "numAnswers": 1,
         "cardType": "Q",
         "text": "Maybe she's born with it.  Maybe it's _.",
-        "expansion": "Base"
+        "expansion": "Base",
+        "id": 463
     },
     {
-        "id": 464,
         "numAnswers": 1,
         "cardType": "Q",
         "text": "What's the next Happy Meal&copy; toy?",
-        "expansion": "Base"
+        "expansion": "Base",
+        "id": 464
     },
     {
-        "id": 465,
         "numAnswers": 1,
         "cardType": "Q",
         "text": "Anthropologists have recently discovered a primitive tribe that worships _.",
-        "expansion": "Base"
+        "expansion": "Base",
+        "id": 465
     },
     {
-        "id": 466,
         "numAnswers": 1,
         "cardType": "Q",
         "text": "It's a pity that kids these days are all getting involved with _.",
-        "expansion": "Base"
+        "expansion": "Base",
+        "id": 466
     },
     {
-        "id": 467,
         "numAnswers": 1,
         "cardType": "Q",
         "text": "During Picasso's often-overlooked Brown Period, he produced hundreds of paintings of _.",
-        "expansion": "Base"
+        "expansion": "Base",
+        "id": 467
     },
     {
-        "id": 468,
         "numAnswers": 1,
         "cardType": "Q",
         "text": "Alternative medicine is now embracing the curative powers of _.",
-        "expansion": "Base"
+        "expansion": "Base",
+        "id": 468
     },
     {
-        "id": 470,
         "numAnswers": 1,
         "cardType": "Q",
         "text": "What's that sound?",
-        "expansion": "Base"
+        "expansion": "Base",
+        "id": 470
     },
     {
-        "id": 471,
         "numAnswers": 1,
         "cardType": "Q",
         "text": "What ended my last relationship?",
-        "expansion": "Base"
+        "expansion": "Base",
+        "id": 471
     },
     {
-        "id": 472,
         "numAnswers": 1,
         "cardType": "Q",
         "text": "MTV's new reality show features eight washed-up celebrities living with _.",
-        "expansion": "Base"
+        "expansion": "Base",
+        "id": 472
     },
     {
-        "id": 473,
         "numAnswers": 1,
         "cardType": "Q",
         "text": "I drink to forget _.",
-        "expansion": "Base"
+        "expansion": "Base",
+        "id": 473
     },
     {
-        "id": 474,
         "numAnswers": 1,
         "cardType": "Q",
         "text": "I'm sorry professor, but I couldn't complete my homework because of _.",
-        "expansion": "Base"
+        "expansion": "Base",
+        "id": 474
     },
     {
-        "id": 475,
         "numAnswers": 1,
         "cardType": "Q",
         "text": "What is Batman's guilty pleasure?",
-        "expansion": "Base"
+        "expansion": "Base",
+        "id": 475
     },
     {
-        "id": 476,
         "numAnswers": 1,
         "cardType": "Q",
         "text": "This is the way the world ends <br> This is the way the world ends <br> Not with a bang but with _.",
-        "expansion": "Base"
+        "expansion": "Base",
+        "id": 476
     },
     {
-        "id": 477,
         "numAnswers": 1,
         "cardType": "Q",
         "text": "What's a girl's best friend?",
-        "expansion": "Base"
+        "expansion": "Base",
+        "id": 477
     },
     {
-        "id": 478,
         "numAnswers": 1,
         "cardType": "Q",
         "text": "TSA guidelines now prohibit _ on airplanes.",
-        "expansion": "Base"
+        "expansion": "Base",
+        "id": 478
     },
     {
-        "id": 479,
         "numAnswers": 1,
         "cardType": "Q",
         "text": "_.  That's how I want to die.",
-        "expansion": "Base"
+        "expansion": "Base",
+        "id": 479
     },
     {
-        "id": 481,
         "numAnswers": 1,
         "cardType": "Q",
         "text": "In the new Disney Channel Original Movie, Hannah Montana struggles with _ for the first time.",
-        "expansion": "Base"
+        "expansion": "Base",
+        "id": 481
     },
     {
-        "id": 483,
         "numAnswers": 1,
         "cardType": "Q",
         "text": "What does Dick Cheney prefer?",
-        "expansion": "Base"
+        "expansion": "Base",
+        "id": 483
     },
     {
-        "id": 484,
         "numAnswers": 1,
         "cardType": "Q",
         "text": "Dear Abby, I'm having some trouble with _ and would like your advice.",
-        "expansion": "Base"
+        "expansion": "Base",
+        "id": 484
     },
     {
-        "id": 485,
         "numAnswers": 1,
         "cardType": "Q",
         "text": "Instead of coal, Santa now gives the bad children _.",
-        "expansion": "Base"
+        "expansion": "Base",
+        "id": 485
     },
     {
-        "id": 486,
         "numAnswers": 1,
         "cardType": "Q",
         "text": "What's the most emo?",
-        "expansion": "Base"
+        "expansion": "Base",
+        "id": 486
     },
     {
-        "id": 487,
         "numAnswers": 1,
         "cardType": "Q",
         "text": "In 1,000 years when paper money is but a distant memory, _ will be our currency.",
-        "expansion": "Base"
+        "expansion": "Base",
+        "id": 487
     },
     {
-        "id": 490,
         "numAnswers": 1,
         "cardType": "Q",
         "text": "A romantic, candlelit dinner would be incomplete without _.",
-        "expansion": "Base"
+        "expansion": "Base",
+        "id": 490
     },
     {
-        "id": 491,
         "numAnswers": 1,
         "cardType": "Q",
         "text": "_.  Becha can't have just one!",
-        "expansion": "Base"
+        "expansion": "Base",
+        "id": 491
     },
     {
-        "id": 492,
         "numAnswers": 1,
         "cardType": "Q",
         "text": "White people like _.",
-        "expansion": "Base"
+        "expansion": "Base",
+        "id": 492
     },
     {
-        "id": 493,
         "numAnswers": 1,
         "cardType": "Q",
         "text": "_.  High five, bro.",
-        "expansion": "Base"
+        "expansion": "Base",
+        "id": 493
     },
     {
-        "id": 494,
         "numAnswers": 1,
         "cardType": "Q",
         "text": "Next from J.K. Rowling: Harry Potter and the Chamber of _.",
-        "expansion": "Base"
+        "expansion": "Base",
+        "id": 494
     },
     {
-        "id": 495,
         "numAnswers": 1,
         "cardType": "Q",
         "text": "BILLY MAYS HERE FOR _.",
-        "expansion": "Base"
+        "expansion": "Base",
+        "id": 495
     },
     {
-        "id": 497,
         "numAnswers": 1,
         "cardType": "Q",
         "text": "War!  What is it good for?",
-        "expansion": "Base"
+        "expansion": "Base",
+        "id": 497
     },
     {
-        "id": 498,
         "numAnswers": 1,
         "cardType": "Q",
         "text": "During sex, I like to think about _.",
-        "expansion": "Base"
+        "expansion": "Base",
+        "id": 498
     },
     {
-        "id": 499,
         "numAnswers": 1,
         "cardType": "Q",
         "text": "What are my parents hiding from me?",
-        "expansion": "Base"
+        "expansion": "Base",
+        "id": 499
     },
     {
-        "id": 500,
         "numAnswers": 1,
         "cardType": "Q",
         "text": "What will always get you laid?",
-        "expansion": "Base"
+        "expansion": "Base",
+        "id": 500
     },
     {
-        "id": 501,
         "numAnswers": 1,
         "cardType": "Q",
         "text": "In L.A. County Jail, word is you can trade 200 cigarettes for _.",
-        "expansion": "Base"
+        "expansion": "Base",
+        "id": 501
     },
     {
-        "id": 502,
         "numAnswers": 1,
         "cardType": "Q",
         "text": "What did I bring back from Mexico?",
-        "expansion": "Base"
+        "expansion": "Base",
+        "id": 502
     },
     {
-        "id": 503,
         "numAnswers": 1,
         "cardType": "Q",
         "text": "What don't you want to find in your Chinese food?",
-        "expansion": "Base"
+        "expansion": "Base",
+        "id": 503
     },
     {
-        "id": 504,
         "numAnswers": 1,
         "cardType": "Q",
         "text": "What will I bring back in time to convince people that I am a powerful wizard?",
-        "expansion": "Base"
+        "expansion": "Base",
+        "id": 504
     },
     {
-        "id": 505,
         "numAnswers": 1,
         "cardType": "Q",
         "text": "How am I maintaining my relationship status?",
-        "expansion": "Base"
+        "expansion": "Base",
+        "id": 505
     },
     {
-        "id": 506,
         "numAnswers": 1,
         "cardType": "Q",
         "text": "_.  It's a trap!",
-        "expansion": "Base"
+        "expansion": "Base",
+        "id": 506
     },
     {
-        "id": 507,
         "numAnswers": 1,
         "cardType": "Q",
         "text": "Coming to Broadway this season, _: The Musical.",
-        "expansion": "Base"
+        "expansion": "Base",
+        "id": 507
     },
     {
-        "id": 508,
         "numAnswers": 1,
         "cardType": "Q",
         "text": "While the United States raced the Soviet Union to the moon, the Mexican government funneled millions of pesos into research on _.",
-        "expansion": "Base"
+        "expansion": "Base",
+        "id": 508
     },
     {
-        "id": 509,
         "numAnswers": 1,
         "cardType": "Q",
         "text": "After the earthquake, Sean Penn brought _ to the people of Haiti.",
-        "expansion": "Base"
+        "expansion": "Base",
+        "id": 509
     },
     {
-        "id": 510,
         "numAnswers": 1,
         "cardType": "Q",
         "text": "Next on ESPN2, the World Series of _.",
-        "expansion": "Base"
+        "expansion": "Base",
+        "id": 510
     },
     {
-        "id": 513,
         "numAnswers": 1,
         "cardType": "Q",
         "text": "But before I kill you, Mr. Bond, I must show you _.",
-        "expansion": "Base"
+        "expansion": "Base",
+        "id": 513
     },
     {
-        "id": 514,
         "numAnswers": 1,
         "cardType": "Q",
         "text": "What gives me uncontrollable gas?",
-        "expansion": "Base"
+        "expansion": "Base",
+        "id": 514
     },
     {
-        "id": 515,
         "numAnswers": 1,
         "cardType": "Q",
         "text": "What do old people smell like?",
-        "expansion": "Base"
+        "expansion": "Base",
+        "id": 515
     },
     {
-        "id": 516,
         "numAnswers": 1,
         "cardType": "Q",
         "text": "The class field trip was completely ruined by _.",
-        "expansion": "Base"
+        "expansion": "Base",
+        "id": 516
     },
     {
-        "id": 517,
         "numAnswers": 1,
         "cardType": "Q",
         "text": "When Pharaoh remained unmoved, Moses called down a Plague of _.",
-        "expansion": "Base"
+        "expansion": "Base",
+        "id": 517
     },
     {
-        "id": 518,
         "numAnswers": 1,
         "cardType": "Q",
         "text": "What's my secret power?",
-        "expansion": "Base"
+        "expansion": "Base",
+        "id": 518
     },
     {
-        "id": 519,
         "numAnswers": 1,
         "cardType": "Q",
         "text": "What's there a ton of in heaven?",
-        "expansion": "Base"
+        "expansion": "Base",
+        "id": 519
     },
     {
-        "id": 520,
         "numAnswers": 1,
         "cardType": "Q",
         "text": "What would grandma find disturbing, yet oddly charming?",
-        "expansion": "Base"
+        "expansion": "Base",
+        "id": 520
     },
     {
-        "id": 522,
         "numAnswers": 1,
         "cardType": "Q",
         "text": "What did the U.S. airdrop to the children of Afghanistan?",
-        "expansion": "Base"
+        "expansion": "Base",
+        "id": 522
     },
     {
-        "id": 523,
         "numAnswers": 1,
         "cardType": "Q",
         "text": "What helps Obama unwind?",
-        "expansion": "Base"
+        "expansion": "Base",
+        "id": 523
     },
     {
-        "id": 524,
         "numAnswers": 1,
         "cardType": "Q",
         "text": "What did Vin Diesel eat for dinner?",
-        "expansion": "Base"
+        "expansion": "Base",
+        "id": 524
     },
     {
-        "id": 525,
         "numAnswers": 1,
         "cardType": "Q",
         "text": "_: good to the last drop.",
-        "expansion": "Base"
+        "expansion": "Base",
+        "id": 525
     },
     {
-        "id": 526,
         "numAnswers": 1,
         "cardType": "Q",
         "text": "Why am I sticky?",
-        "expansion": "Base"
+        "expansion": "Base",
+        "id": 526
     },
     {
-        "id": 527,
         "numAnswers": 1,
         "cardType": "Q",
         "text": "What gets better with age?",
-        "expansion": "Base"
+        "expansion": "Base",
+        "id": 527
     },
     {
-        "id": 528,
         "numAnswers": 1,
         "cardType": "Q",
         "text": "_: kid-tested, mother-approved.",
-        "expansion": "Base"
+        "expansion": "Base",
+        "id": 528
     },
     {
-        "id": 529,
         "numAnswers": 1,
         "cardType": "Q",
         "text": "What's the crustiest?",
-        "expansion": "Base"
+        "expansion": "Base",
+        "id": 529
     },
     {
-        "id": 530,
         "numAnswers": 1,
         "cardType": "Q",
         "text": "What's Teach for America using to inspire inner city students to succeed?",
-        "expansion": "Base"
+        "expansion": "Base",
+        "id": 530
     },
     {
-        "id": 531,
         "numAnswers": 1,
         "cardType": "Q",
         "text": "Studies show that lab rats navigate mazes 50% faster after being exposed to _.",
-        "expansion": "Base"
+        "expansion": "Base",
+        "id": 531
     },
     {
-        "id": 532,
         "numAnswers": 1,
         "cardType": "Q",
         "text": "Life for American Indians was forever changed when the White Man introduced them to _.",
-        "expansion": "Base"
+        "expansion": "Base",
+        "id": 532
     },
     {
-        "id": 534,
         "numAnswers": 1,
         "cardType": "Q",
         "text": "I do not know with what weapons World War III will be fought, but World War IV will be fought with _.",
-        "expansion": "Base"
+        "expansion": "Base",
+        "id": 534
     },
     {
-        "id": 535,
         "numAnswers": 1,
         "cardType": "Q",
         "text": "Why do I hurt all over?",
-        "expansion": "Base"
+        "expansion": "Base",
+        "id": 535
     },
     {
-        "id": 536,
         "numAnswers": 1,
         "cardType": "Q",
         "text": "What am I giving up for Lent?",
-        "expansion": "Base"
+        "expansion": "Base",
+        "id": 536
     },
     {
-        "id": 537,
         "numAnswers": 1,
         "cardType": "Q",
         "text": "In Michael Jackson's final moments, he thought about _.",
-        "expansion": "Base"
+        "expansion": "Base",
+        "id": 537
     },
     {
-        "id": 538,
         "numAnswers": 1,
         "cardType": "Q",
         "text": "In an attempt to reach a wider audience, the Smithsonian Museum of Natural History has opened an interactive exhibit on _.",
-        "expansion": "Base"
+        "expansion": "Base",
+        "id": 538
     },
     {
-        "id": 539,
         "numAnswers": 1,
         "cardType": "Q",
         "text": "When I am President of the United States, I will create the Department of _.",
-        "expansion": "Base"
+        "expansion": "Base",
+        "id": 539
     },
     {
-        "id": 541,
         "numAnswers": 1,
         "cardType": "Q",
         "text": "When I am a billionaire, I shall erect a 50-foot statue to commemorate _.",
-        "expansion": "Base"
+        "expansion": "Base",
+        "id": 541
     },
     {
-        "id": 544,
         "numAnswers": 1,
         "cardType": "Q",
         "text": "What's my anti-drug?",
-        "expansion": "Base"
+        "expansion": "Base",
+        "id": 544
     },
     {
-        "id": 546,
         "numAnswers": 1,
         "cardType": "Q",
         "text": "What never fails to liven up the party?",
-        "expansion": "Base"
+        "expansion": "Base",
+        "id": 546
     },
     {
-        "id": 547,
         "numAnswers": 1,
         "cardType": "Q",
         "text": "What's the new fad diet?",
-        "expansion": "Base"
+        "expansion": "Base",
+        "id": 547
     },
     {
-        "id": 548,
         "numAnswers": 1,
         "cardType": "Q",
         "text": "Major League Baseball has banned _ for giving players an unfair advantage.",
-        "expansion": "Base"
+        "expansion": "Base",
+        "id": 548
     }
 ]
