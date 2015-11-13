@@ -30,13 +30,11 @@ with open('black.json', 'w') as black_list:
 	separators=(',', ': '), indent=4)
 
 trainer_json = {}
-white_val = []
+white_val = {}
 
 for bcard in black:
 	for wcard in white:
-		temp_json = {}
-		temp_json[wcard['text']] = 0
-		white_val.append(temp_json)
+		white_val[wcard['text']] = 0
 	trainer_json[bcard['text']] = white_val
 
 with open('trainer_template.json', 'w') as trainer:
