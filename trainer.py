@@ -145,7 +145,7 @@ numOfOpts = 5
 random_b = drawRandBlack(b_list)
 list_of_random_items = drawRandWhite(w_list, numOfOpts)
 
-black_card = Text(root, height = 2, width=30)
+black_card = Text(root, height = 2, width=80)
 
 # button = []
 
