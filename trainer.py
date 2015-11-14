@@ -33,84 +33,75 @@ with open('black.json') as black_list:
 with open('white.json') as white_list:
 	w_list = json.load(white_list)
 
+
+
+
 def updateScores1():
-	t_list[random_b['text']][button1["text"]] +=1
-	t_list[random_b['text']][button2["text"]] -=0.25
-	t_list[random_b['text']][button3["text"]] -=0.25
-	t_list[random_b['text']][button4["text"]] -=0.25
-	t_list[random_b['text']][button5["text"]] -=0.25
+	t_list[black_card.get("1.0", END).strip()][button1["text"]] +=1
+	t_list[black_card.get("1.0", END).strip()][button2["text"]] -=0.25
+	t_list[black_card.get("1.0", END).strip()][button3["text"]] -=0.25
+	t_list[black_card.get("1.0", END).strip()][button4["text"]] -=0.25
+	t_list[black_card.get("1.0", END).strip()][button5["text"]] -=0.25
 
 def updateScores2():
-	t_list[random_b['text']][button2["text"]] +=1
-	t_list[random_b['text']][button1["text"]] -=0.25
-	t_list[random_b['text']][button3["text"]] -=0.25
-	t_list[random_b['text']][button4["text"]] -=0.25
-	t_list[random_b['text']][button5["text"]] -=0.25
+	t_list[black_card.get("1.0", END).strip()][button2["text"]] +=1
+	t_list[black_card.get("1.0", END).strip()][button1["text"]] -=0.25
+	t_list[black_card.get("1.0", END).strip()][button3["text"]] -=0.25
+	t_list[black_card.get("1.0", END).strip()][button4["text"]] -=0.25
+	t_list[black_card.get("1.0", END).strip()][button5["text"]] -=0.25
 
 def updateScores3():
-	t_list[random_b['text']][button3["text"]] +=1
-	t_list[random_b['text']][button2["text"]] -=0.25
-	t_list[random_b['text']][button1["text"]] -=0.25
-	t_list[random_b['text']][button4["text"]] -=0.25
-	t_list[random_b['text']][button5["text"]] -=0.25
+	t_list[black_card.get("1.0", END).strip()][button3["text"]] +=1
+	t_list[black_card.get("1.0", END).strip()][button2["text"]] -=0.25
+	t_list[black_card.get("1.0", END).strip()][button1["text"]] -=0.25
+	t_list[black_card.get("1.0", END).strip()][button4["text"]] -=0.25
+	t_list[black_card.get("1.0", END).strip()][button5["text"]] -=0.25
 
 def updateScores4():
-	t_list[random_b['text']][button4["text"]] +=1
-	t_list[random_b['text']][button2["text"]] -=0.25
-	t_list[random_b['text']][button3["text"]] -=0.25
-	t_list[random_b['text']][button1["text"]] -=0.25
-	t_list[random_b['text']][button5["text"]] -=0.25
+	t_list[black_card.get("1.0", END).strip()][button4["text"]] +=1
+	t_list[black_card.get("1.0", END).strip()][button2["text"]] -=0.25
+	t_list[black_card.get("1.0", END).strip()][button3["text"]] -=0.25
+	t_list[black_card.get("1.0", END).strip()][button1["text"]] -=0.25
+	t_list[black_card.get("1.0", END).strip()][button5["text"]] -=0.25
 
 def updateScores5():
-	t_list[random_b['text']][button5["text"]] +=1
-	t_list[random_b['text']][button2["text"]] -=0.25
-	t_list[random_b['text']][button3["text"]] -=0.25
-	t_list[random_b['text']][button4["text"]] -=0.25
-	t_list[random_b['text']][button1["text"]] -=0.25
-
-def ButtonAct(input):
-	updateScoreAct(input)
-	print(t_list[random_b['text']][button1["text"]])
-	print("You selected "+ list_of_random_items[0]["text"])
-	listbox.insert(END, "button1 pressed")
-	updateCards()
-
-def updateScoreAct(input_num):
-	reload()
-	print(button[input_num]["text"])
-	t_list[random_b['text']][button[input_num]["text"]] = t_list[random_b['text']][list_of_random_items[input_num]["text"]] + 1
+	t_list[black_card.get("1.0", END).strip()][button5["text"]] +=1
+	t_list[black_card.get("1.0", END).strip()][button2["text"]] -=0.25
+	t_list[black_card.get("1.0", END).strip()][button3["text"]] -=0.25
+	t_list[black_card.get("1.0", END).strip()][button4["text"]] -=0.25
+	t_list[black_card.get("1.0", END).strip()][button1["text"]] -=0.25
 
 def Button1():
 	updateScores1()
-	print(random_b['text'])
+	print(black_card.get("1.0", END).strip())
 	print("You selected "+ button1["text"])
 	listbox.insert(END, "button1 pressed")
 	updateCards()
 
 def Button2():
 	updateScores2()
-	print(random_b['text'])
+	print(black_card.get("1.0", END).strip())
 	print("You selected "+ button2["text"])
 	listbox.insert(END, "button2 pressed")
 	updateCards()
 
 def Button3():
 	updateScores3()
-	print(random_b['text'])
+	print(black_card.get("1.0", END).strip())
 	print("You selected "+ button3["text"])
 	listbox.insert(END, "button3 pressed")
 	updateCards()
 
 def Button4():
 	updateScores4()
-	print(random_b['text'])
+	print(black_card.get("1.0", END).strip())
 	print("You selected "+ button4["text"])
 	listbox.insert(END, "button4 pressed")
 	updateCards()
 
 def Button5():
 	updateScores5()
-	print(random_b['text'])
+	print(black_card.get("1.0", END).strip())
 	print("You selected "+ button5["text"])
 	listbox.insert(END, "button5 pressed")
 	updateCards()
@@ -135,10 +126,16 @@ def updateCards():
 	button4["text"] = list_of_random_items[3]["text"]
 	button5["text"] = list_of_random_items[4]["text"]
 
-	random_b = drawRandBlack(b_list)
+	random_b2 = drawRandBlack(b_list)
 
 	black_card.delete(1.0, END)
-	black_card.insert(END, random_b['text'])
+	black_card.insert(END, random_b2['text'])
+
+
+
+
+
+
 
 #initalize
 numOfOpts = 5
@@ -146,11 +143,6 @@ random_b = drawRandBlack(b_list)
 list_of_random_items = drawRandWhite(w_list, numOfOpts)
 
 black_card = Text(root, height = 2, width=80)
-
-# button = []
-
-# for temp_int in range(0,4):
-# 	button[temp_int] = Button(root, text=list_of_random_items[temp_int]["text"], command = ButtonAct(temp_int))
 
 button1 = Button(root, text=list_of_random_items[0]["text"], command = Button1)
 button2 = Button(root, text=list_of_random_items[1]["text"], command = Button2)
