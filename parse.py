@@ -34,6 +34,13 @@ with open('black.json', 'w') as black_list:
 	json.dump(black, black_list, ensure_ascii=False,
 	separators=(',', ': '), indent=4)
 
+# Uncomment to load directly from data
+# with open('black.json') as b_list:
+# 	black = json.load(b_list)
+
+# with open('white.json') as w_list:
+# 	white = json.load(w_list)	
+
 #initialize trainer json file
 trainer_json = {}
 white_val = {}
